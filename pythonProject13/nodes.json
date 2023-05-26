@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1264208004,
+        "degree_centrality": 1.0,
+        "betweenness_centrality": 1.0,
+        "closeness_centrality": 1.0,
+        "eigenvector_centrality": 0.707106500442864,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "MKahraba",
+        "degree_centrality": 0.16666666666666666,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5454545454545454,
+        "eigenvector_centrality": 0.2886752492078963,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "13AlyLotfy",
+        "degree_centrality": 0.16666666666666666,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5454545454545454,
+        "eigenvector_centrality": 0.2886752492078963,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "percymuzitau22",
+        "degree_centrality": 0.16666666666666666,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5454545454545454,
+        "eigenvector_centrality": 0.2886752492078963,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "Walid11Soliman",
+        "degree_centrality": 0.16666666666666666,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5454545454545454,
+        "eigenvector_centrality": 0.2886752492078963,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "ALAHLI_FC",
+        "degree_centrality": 0.16666666666666666,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5454545454545454,
+        "eigenvector_centrality": 0.2886752492078963,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "RCAofficiel",
+        "degree_centrality": 0.16666666666666666,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5454545454545454,
+        "eigenvector_centrality": 0.2886752492078963,
+        "clustering_coefficient": 0
+    }
+]
