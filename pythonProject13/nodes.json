@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1264208004,
+        "degree_centrality": 1.0,
+        "betweenness_centrality": 1.0,
+        "closeness_centrality": 1.0,
+        "eigenvector_centrality": 0.7071084267845621,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "MKahraba",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "13AlyLotfy",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "percymuzitau22",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "Walid11Soliman",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "ALAHLI_FC",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "RCAofficiel",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "muhammedhany",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "MoamenZakaria",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "moiegy",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "aymanashraf",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "amrelsolia",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "Melshenawy",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "emysofficial",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "FRMFOFFICIEL",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "Alhilal_FC",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "fifacom_ar",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "Concrete",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "QFA",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "roadto2022",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "mjcc_gov",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "adidasMENA",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "QFA_EN",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "alahlystore",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "EtisalatEgypt",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "husseinelshahat",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "aliou8_dieng",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "ASRomaArabic",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "LuisMiquissone",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "sherifabdlfadil",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "FAFAlgeria",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "Ahly_Volleyball",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "mserageldin",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "LFC_Arabic",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "MoSalah",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    },
+    {
+        "id": "LFC",
+        "degree_centrality": 0.02857142857142857,
+        "betweenness_centrality": 0.0,
+        "closeness_centrality": 0.5072463768115942,
+        "eigenvector_centrality": 0.1195225827759593,
+        "clustering_coefficient": 0
+    }
+]
